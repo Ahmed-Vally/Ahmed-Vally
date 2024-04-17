@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a student at CodeSpace Academy [CodeSpace Academy](https://www.codespace.co.za/programs/software-development/?matchtype=e&device=c&keyword=codespace&adgroupid=78286133238&utm_campaign=6451583985&utm_source=google&utm_medium=cpc&gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oJI6EaJHYPozCO50Eukg13H543efiuRtjkA0kwRELsI2iRUq1QHnGRoChrgQAvD_BwE)
 
-- 🌱 I’m currently learning **CSS,Javascript,HTML,python,**
+- 🌱 I’m currently learning **CSS, Javascript, HTML, python,**
 
 - 📫 How to reach me **AhmedVally711@gmal.com**
 
