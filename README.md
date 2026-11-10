@@ -3,7 +3,7 @@
 
 - 🔭 I’m a graduate of CodeSpace Academy [CodeSpace Academy](https://www.codespace.co.za/programs/software-development/?matchtype=e&device=c&keyword=codespace&adgroupid=78286133238&utm_campaign=6451583985&utm_source=google&utm_medium=cpc&gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oJI6EaJHYPozCO50Eukg13H543efiuRtjkA0kwRELsI2iRUq1QHnGRoChrgQAvD_BwE)
 
-- One of my certifications https://www.linkedin.com/safety/go/?url=https%3A%2F%2Ffreecodecamp.org%2Fcertification%2Fahmed_17%2Fresponsive-web-design&urlhash=3Guu&mt=JG7c8TFFDcd8d4nxNB79a85UW9twzHQ2LP6gGLJseXhEzVqCCXcolSACFpxExP5-4O07STJpzw5kaxTyfXoZ-RrCJeLWohEAXB65mZNOiX2sFR1FrCcIUjibrdNgkvzlEqC0ariRkL26Jia4TGSUoyFwwGWEiDbCVdrgNcAvxfMVCAKa8u3GYXajgS_EZT_AmpNPzohQy4cKJBrfmdmx39Q&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bfhm2AHl1T6qoYc%2BI5Gr7LA%3D%3D
+- One of my certifications [FreeCodeCamp] https://www.freecodecamp.org/certification/ahmed_17/responsive-web-design
 
 - 🌱 I currently know **CSS, Javascript, HTML, APIs**
 
