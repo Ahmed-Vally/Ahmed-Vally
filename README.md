@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Vally</h1>
 <h3 align="center">A passionate software developer from Cape Town</h3>
-<h3 align="center">I am Currently studying IT And Computer Science at College Of Cape Town
+<h3 align="center">I am Currently studying IT And Computer Science at College Of Cape Town</h3>
+
 
 - 🔭 I’m a graduate of CodeSpace Academy [CodeSpace Academy](https://www.codespace.co.za/programs/software-development/?matchtype=e&device=c&keyword=codespace&adgroupid=78286133238&utm_campaign=6451583985&utm_source=google&utm_medium=cpc&gad_source=1&gclid=CjwKCAjwzN-vBhAkEiwAYiO7oJI6EaJHYPozCO50Eukg13H543efiuRtjkA0kwRELsI2iRUq1QHnGRoChrgQAvD_BwE)
 
